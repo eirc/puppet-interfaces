@@ -1,0 +1,7 @@
+# File managed by puppet
+
+auto lo
+iface lo inet loopback
+
+allow-hotplug <%= interface %>
+iface <%= interface %> inet dhcp
