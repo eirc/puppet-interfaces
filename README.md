@@ -38,4 +38,4 @@ Eric Cohen <eirc.eirc@gmail.com>
 Support
 -------
 
-Please log tickets and issues at our [Github issues page](https://github.com/eirc/interfaces/issues)
+Please log tickets and issues at our [Github issues page](https://github.com/eirc/puppet-interfaces/issues)

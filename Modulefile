@@ -5,7 +5,7 @@ author 'eirc'
 license 'Apache License, Version 2.0'
 summary 'Manage the `/etc/network/interfaces` file via puppet.'
 description ''
-project_page 'https://github.com/eirc/interfaces'
+project_page 'https://github.com/eirc/puppet-interfaces'
 
 ## Add dependencies, if any:
 # dependency 'username/name', '>= 1.2.0'
